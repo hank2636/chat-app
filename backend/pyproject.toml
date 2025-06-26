@@ -1,0 +1,19 @@
+[project]
+name = "app"
+version = "0.1.0"
+dependencies = [
+    "fastapi==0.111.0",
+    "uvicorn==0.29.0",
+    "requests==2.31.0",
+    "ipykernel==6.29.5",
+    "pydantic_settings==2.8.1",
+    "pyjwt==2.9.0",
+    "sqlmodel==0.0.24",
+    "passlib==1.7.4",
+    "psycopg==3.2.2",
+    "psycopg-binary==3.2.2",
+    "emails==0.6",
+    
+    
+]
+
